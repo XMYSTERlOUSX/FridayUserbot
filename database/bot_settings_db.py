@@ -18,7 +18,7 @@ If He Needs To Talk To You, He Will Approve You!</i>
 <b><u>You Have {warns} Of Warns.</b></u>
 """
 
-default_thumb = "https://icon-icons.com/downloadimage.php?id=106660&root=1527/PNG/512/&file=shield_106660.png"
+default_thumb = "https://telegra.ph//file/db1cc7093ed4f8b12da15.jpg"
 
 
 async def add_pm_text(text=default_text):
